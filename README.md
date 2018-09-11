@@ -1,1 +1,1 @@
-# vr_sickness_prediction
+# Machine learning for the prediction of virtual reality sickness 
